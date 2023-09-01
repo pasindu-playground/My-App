@@ -4,4 +4,4 @@
 0.1.1
 ### License
 Copyright &copy : 2023 DEP-11 <br>
-this project is under
+this project is under this [License](License.txt)
